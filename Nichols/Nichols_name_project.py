@@ -1,0 +1,13 @@
+from turtle import *
+canvas = Screen()
+canvas.setup(400, 200)
+zach = Turtle()
+zach.shape("turtle")
+zach.color("cyan")
+zach.forward(40)
+zach.left(240)
+zach.forward(60)
+zach.left(120)
+zach.forward(80)
+zach.left(85)
+zach.forward(70)
