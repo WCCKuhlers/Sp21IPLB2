@@ -39,6 +39,6 @@ ple.forward(40)
 ple.left(90)
 ple.forward(80)
 
-ple.circle(-30,60)
-ple.circle(30,60)
-
+ple.circle(-25,280)
+ple.forward(20)
+ple.circle(-50,70)
